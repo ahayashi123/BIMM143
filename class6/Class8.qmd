@@ -1,0 +1,21 @@
+---
+title: "Mini-project"
+author: "Alyssa Hayashi"
+format: html
+---
+
+#Preparing the data 
+
+```{r}
+# Save your input data file into your Project directory
+fna.data <- "WisconsinCancer.csv"
+
+# Complete the following code to input the data and store as wisc.df
+wisc.df <- read.csv(fna.data, row.names=1)
+```
+
+```{r}
+View(wisc.df)
+
+```
+
