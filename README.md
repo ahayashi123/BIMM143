@@ -7,7 +7,7 @@ Class work from W2024 for [BIMM143 at UC San Diego](https://bioboot.github.io/bi
   
 - Class 6 [R Function and packages](https://github.com/ahayashi123/BIMM143/blob/main/class6/class6.pdf).
 
-- Class 7 [Introduction to machine learning]()
+- Class 7 [Introduction to machine learning](https://github.com/ahayashi123/BIMM143/blob/main/class7/class7.pdf)
 
 - Class 8 [Halloween candy mini-project]()
 
